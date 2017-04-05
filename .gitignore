@@ -128,3 +128,4 @@ fabric.properties
 *DS_Store*
 *.npy
 *.tsv
+*.swp
