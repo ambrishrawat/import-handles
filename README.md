@@ -3,9 +3,9 @@ Boiler plate code setting handles to dataset and libraries
 
 Code structure:
 
-*`myrc`
-    ** `__init__.py`
-    **`handles`
-        ***
+* `myrc`
+    * `__init__.py`
+    * `handles`
+        * dc
 
     
