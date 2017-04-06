@@ -1,6 +1,5 @@
-"""config handles
-
-The magic stuff is here
+"""
+handles
 """
 
 import importlib
@@ -9,8 +8,9 @@ import importlib
 __all__ = ['execute']
 
 modules = [
-    'repo1_handle',
-    'data1_handle',
+    'options_handle', 
+    'repo1_handle', 
+    'data1_handle'
 ]
 
 
