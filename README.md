@@ -18,6 +18,8 @@ if __name__=="__main":
     pass
 
 ```
+- run everything form the home directory
+- have the line `from myrc import rc` in all your scripts
 
 ## Code Structure:
 
